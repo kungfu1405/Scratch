@@ -1,0 +1,10 @@
+D:\Git\Scratch\Scratch\MovieDb\bin\Debug\MovieDb.dacpac
+D:\Git\Scratch\Scratch\MovieDb\bin\Debug\MovieDb.dll
+D:\Git\Scratch\Scratch\MovieDb\bin\Debug\MovieDb.pdb
+D:\Git\Scratch\Scratch\MovieDb\obj\Debug\MovieDb.sqlproj.AssemblyReference.cache
+D:\Git\Scratch\Scratch\MovieDb\obj\Debug\Model.xml
+D:\Git\Scratch\Scratch\MovieDb\obj\Debug\refactor.xml
+D:\Git\Scratch\Scratch\MovieDb\obj\Debug\postdeploy.sql
+D:\Git\Scratch\Scratch\MovieDb\obj\Debug\predeploy.sql
+D:\Git\Scratch\Scratch\MovieDb\obj\Debug\MovieDb.dll
+D:\Git\Scratch\Scratch\MovieDb\obj\Debug\MovieDb.pdb

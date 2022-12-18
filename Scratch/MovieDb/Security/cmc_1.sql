@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [cmc]
+    WITH PASSWORD = N'rByofstZr|.vbxgnkmbkckgwmsFT7_&#$!~<zhk0UdtvB{dt', SID = 0xEA43E0D7773AAD4C8F74883EBD2D24BF, DEFAULT_LANGUAGE = [us_english], CHECK_EXPIRATION = ON;
+
