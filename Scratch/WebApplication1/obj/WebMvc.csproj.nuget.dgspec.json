@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\Scratch\\Scratch\\WebApplication1\\WebMvc.csproj": {}
+    "D:\\Git\\Scratch\\Scratch\\Scratch\\WebApplication1\\WebMvc.csproj": {}
   },
   "projects": {
-    "D:\\Git\\Scratch\\Scratch\\WebApplication1\\WebMvc.csproj": {
+    "D:\\Git\\Scratch\\Scratch\\Scratch\\WebApplication1\\WebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\Scratch\\Scratch\\WebApplication1\\WebMvc.csproj",
+        "projectUniqueName": "D:\\Git\\Scratch\\Scratch\\Scratch\\WebApplication1\\WebMvc.csproj",
         "projectName": "WebMvc",
-        "projectPath": "D:\\Git\\Scratch\\Scratch\\WebApplication1\\WebMvc.csproj",
+        "projectPath": "D:\\Git\\Scratch\\Scratch\\Scratch\\WebApplication1\\WebMvc.csproj",
         "packagesPath": "C:\\Users\\Huynv\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\Scratch\\Scratch\\WebApplication1\\obj\\",
+        "outputPath": "D:\\Git\\Scratch\\Scratch\\Scratch\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Huynv\\AppData\\Roaming\\NuGet\\NuGet.Config",

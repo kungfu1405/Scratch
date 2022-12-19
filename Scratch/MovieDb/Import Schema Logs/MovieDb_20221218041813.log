@@ -1,7 +1,0 @@
-12/18/2022 11:18:13 AM	This log contains information about the import schema operation into project 'MovieDb' on computer 'HUYNV_ASUS' by user 'Huynv'.
-12/18/2022 11:18:13 AM	Import of database schema has started.
-12/18/2022 11:18:13 AM	An exception was generated.
-The reverse engineering operation cannot continue because you do not have View Definition permission on the 'MvcMovieContext' database.
-12/18/2022 11:18:13 AM	Finished importing database.
-12/18/2022 11:18:13 AM	A summary of the import was saved to the following location: D:\Git\Scratch\Scratch\MovieDb\Import Schema Logs\MovieDb_20221218041813.log
-12/18/2022 11:18:13 AM	Click Finish to continue...
