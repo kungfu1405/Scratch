@@ -1,0 +1,10 @@
+D:\Git\Scratch\Scratch\Scratch\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\Git\Scratch\Scratch\Scratch\WindowsForms\bin\Debug\WindowsForms.exe
+D:\Git\Scratch\Scratch\Scratch\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\Git\Scratch\Scratch\Scratch\WindowsForms\obj\Debug\WindowsForms.csproj.AssemblyReference.cache
+D:\Git\Scratch\Scratch\Scratch\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+D:\Git\Scratch\Scratch\Scratch\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\Git\Scratch\Scratch\Scratch\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+D:\Git\Scratch\Scratch\Scratch\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+D:\Git\Scratch\Scratch\Scratch\WindowsForms\obj\Debug\WindowsForms.exe
+D:\Git\Scratch\Scratch\Scratch\WindowsForms\obj\Debug\WindowsForms.pdb
