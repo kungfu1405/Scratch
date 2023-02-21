@@ -22,8 +22,27 @@ namespace WebMvc.Controllers
         // GET: Movies
         public async Task<IActionResult> Index()
         {
+            ViewBag.keysearch= string.Empty;
+              
             return View(await _context.Movie.ToListAsync());
+
         }
+        [HttpPost]
+        public async Task<IActionResult> Index(string txtSearch = "")
+        {
+            ViewBag.keysearch = txtSearch;
+            var movies = from m in _context.Movie select m;
+            if (!string.IsNullOrEmpty(txtSearch))
+            {
+                movies = movies.Where(s => s.Title!.Contains(txtSearch));
+            }
+            return View(await movies.ToListAsync());
+        }
+        //[HttpPost]
+        //public string Index(string txtSearch, bool notUsed)
+        //{
+        //    return "From [HttpPost]Index: filter on " + txtSearch;
+        //}
 
         // GET: Movies/Details/5
         public async Task<IActionResult> Details(int? id)

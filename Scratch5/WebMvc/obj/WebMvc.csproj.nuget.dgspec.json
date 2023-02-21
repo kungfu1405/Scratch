@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Scratch5\\WebMvc\\WebMvc.csproj": {}
+    "D:\\Git\\Scratch\\Scratch5\\WebMvc\\WebMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Scratch5\\WebMvc\\WebMvc.csproj": {
+    "D:\\Git\\Scratch\\Scratch5\\WebMvc\\WebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Scratch5\\WebMvc\\WebMvc.csproj",
+        "projectUniqueName": "D:\\Git\\Scratch\\Scratch5\\WebMvc\\WebMvc.csproj",
         "projectName": "WebMvc",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Scratch5\\WebMvc\\WebMvc.csproj",
+        "projectPath": "D:\\Git\\Scratch\\Scratch5\\WebMvc\\WebMvc.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Scratch5\\WebMvc\\obj\\",
+        "outputPath": "D:\\Git\\Scratch\\Scratch5\\WebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
