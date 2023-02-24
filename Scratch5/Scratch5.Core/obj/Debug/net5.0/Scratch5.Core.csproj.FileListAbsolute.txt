@@ -1,0 +1,12 @@
+D:\Git\Scratch\Scratch5\Scratch5.Core\bin\Debug\net5.0\Scratch5.Core.deps.json
+D:\Git\Scratch\Scratch5\Scratch5.Core\bin\Debug\net5.0\Scratch5.Core.dll
+D:\Git\Scratch\Scratch5\Scratch5.Core\bin\Debug\net5.0\Scratch5.Core.pdb
+D:\Git\Scratch\Scratch5\Scratch5.Core\obj\Debug\net5.0\Scratch5.Core.csproj.AssemblyReference.cache
+D:\Git\Scratch\Scratch5\Scratch5.Core\obj\Debug\net5.0\Scratch5.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Scratch\Scratch5\Scratch5.Core\obj\Debug\net5.0\Scratch5.Core.AssemblyInfoInputs.cache
+D:\Git\Scratch\Scratch5\Scratch5.Core\obj\Debug\net5.0\Scratch5.Core.AssemblyInfo.cs
+D:\Git\Scratch\Scratch5\Scratch5.Core\obj\Debug\net5.0\Scratch5.Core.csproj.CoreCompileInputs.cache
+D:\Git\Scratch\Scratch5\Scratch5.Core\obj\Debug\net5.0\Scratch5.Core.dll
+D:\Git\Scratch\Scratch5\Scratch5.Core\obj\Debug\net5.0\refint\Scratch5.Core.dll
+D:\Git\Scratch\Scratch5\Scratch5.Core\obj\Debug\net5.0\Scratch5.Core.pdb
+D:\Git\Scratch\Scratch5\Scratch5.Core\obj\Debug\net5.0\ref\Scratch5.Core.dll

@@ -1,0 +1,15 @@
+D:\Git\Scratch\Scratch5\DbData.Dal\bin\Debug\net5.0\DbData.Dal.deps.json
+D:\Git\Scratch\Scratch5\DbData.Dal\bin\Debug\net5.0\DbData.Dal.dll
+D:\Git\Scratch\Scratch5\DbData.Dal\bin\Debug\net5.0\DbData.Dal.pdb
+D:\Git\Scratch\Scratch5\DbData.Dal\obj\Debug\net5.0\DbData.Dal.csproj.AssemblyReference.cache
+D:\Git\Scratch\Scratch5\DbData.Dal\obj\Debug\net5.0\DbData.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Scratch\Scratch5\DbData.Dal\obj\Debug\net5.0\DbData.Dal.AssemblyInfoInputs.cache
+D:\Git\Scratch\Scratch5\DbData.Dal\obj\Debug\net5.0\DbData.Dal.AssemblyInfo.cs
+D:\Git\Scratch\Scratch5\DbData.Dal\obj\Debug\net5.0\DbData.Dal.csproj.CoreCompileInputs.cache
+D:\Git\Scratch\Scratch5\DbData.Dal\obj\Debug\net5.0\DbData.Dal.dll
+D:\Git\Scratch\Scratch5\DbData.Dal\obj\Debug\net5.0\refint\DbData.Dal.dll
+D:\Git\Scratch\Scratch5\DbData.Dal\obj\Debug\net5.0\DbData.Dal.pdb
+D:\Git\Scratch\Scratch5\DbData.Dal\obj\Debug\net5.0\ref\DbData.Dal.dll
+D:\Git\Scratch\Scratch5\DbData.Dal\bin\Debug\net5.0\DbData.Entity.dll
+D:\Git\Scratch\Scratch5\DbData.Dal\bin\Debug\net5.0\DbData.Entity.pdb
+D:\Git\Scratch\Scratch5\DbData.Dal\obj\Debug\net5.0\DbData.Dal.csproj.CopyComplete

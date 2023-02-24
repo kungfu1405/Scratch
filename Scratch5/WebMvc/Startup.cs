@@ -10,6 +10,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using WebMvc.Data;
+using DbData.Dal;
 
 namespace WebMvc
 {
@@ -29,6 +30,20 @@ namespace WebMvc
 
             services.AddDbContext<WebMvcContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("WebMvcContext")));
+            //services.AddDbContext<DbDataContext>(options =>
+            //        options.UseSqlServer(Configuration.GetConnectionString("WebMvcContext")));
+
+            //services.AddDbContext<DbDataContext>(
+            //        options =>
+            //            options.UseSqlServer(
+            //                Configuration.GetConnectionString("WebMvcContext"),
+            //                x => x.MigrationsAssembly("DbData.Dal")));
+
+            //services.AddDbContext<DbDataContext>(options
+            //          => options.UseSqlServer(Configuration.GetConnectionString("WebMvcContext")
+            //          , o => o.MigrationsAssembly("DbData.Dal.DbDataContext")));
+            //, ServiceLifetime.Transient);
+            //services.AddScoped<IDbDataContext, MsSqlDbDataContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
